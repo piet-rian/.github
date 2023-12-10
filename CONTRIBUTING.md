@@ -4,4 +4,4 @@
 
 そのため、本リポジトリに対して貢献するのではなく、各自でフォークしたリポジトリ上で変更管理を行うことを推奨します。
 
-なお、この指針は [piet-rian](https://github.com/piet-rian) が管理するリポジトリでのみ有効です。 
+なお、この指針は GitHubの [既定のコミュニティ正常性ファイル](https://docs.github.com/ja/communities/setting-up-your-project-for-healthy-contributions/creating-a-default-community-health-file) の機能を用いて、 [piet-rian](https://github.com/piet-rian) が管理するリポジトリに対して共通して設定されています。 
